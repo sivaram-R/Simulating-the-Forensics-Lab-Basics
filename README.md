@@ -93,9 +93,7 @@ fls -version
 
 Virtual Machine (Kali Linux)
 
-![Kali](https://github.com/user-attachments/assets/5e213f21-6818-427a-818b-77504c252a3a)
-
-
+![kali](https://github.com/user-attachments/assets/89dce4aa-f575-4b3e-9e5b-fb2664b728d4)
 
 ### Autopsy
 
