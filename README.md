@@ -1,8 +1,8 @@
 # Simulating the Forensics Lab Basics
 
 ```
-NAME : RAJESH A 
-REG_NO : 212222100042
+NAME : SIVARAM R
+REG_NO : 212222100050
 ```
 ## Aim :
 
